@@ -1,0 +1,7 @@
+print("Problemas Sociales")
+print("Delicuencia")
+print("Pobreza")
+print("Corrupcion")
+print("Desempleo")
+print("Alcoholismo")
+print("Drogadiccion")
