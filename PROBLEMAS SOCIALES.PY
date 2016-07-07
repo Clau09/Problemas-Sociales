@@ -1,4 +1,4 @@
-//PROBLEMAS SOCIALES
+#PROBLEMAS SOCIALES
 import time
 import os
 def menu():
